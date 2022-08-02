@@ -14,6 +14,8 @@ public class Demo
 		
 		System.out.println("hello");
 		System.out.println("tiger");
+		System.out.println("hello");
+
 		
 	}
 
